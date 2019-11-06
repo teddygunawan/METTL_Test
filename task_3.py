@@ -25,7 +25,7 @@ def solution(A):
 
 
 if __name__ == "__main__":
-    # Task 1 Test Case, add in new array to add it to the test
+    # Task 3 Test Case, add in new array to add it to the test
     test_cases = [
         "aaaaabbbbcccccccdaa",
         "abcde",

@@ -19,7 +19,7 @@ def solution(A):
     return sum(self_numbers)
  
 if __name__ == "__main__":
-    # Task 1 Test Case, add in new array to add it to the test
+    # Task 5 Test Case, add in new array to add it to the test
     test_cases = [
         [0, 100],
         [0, 5000]
